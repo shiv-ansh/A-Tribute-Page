@@ -1,0 +1,35 @@
+html,body
+{
+	font-family: arial,san-serif,helvetica;
+	text-align: center;
+	min-width: 250px;
+	
+}
+#main
+{
+	margin:30px auto;
+	
+	background-color: #B6BCC2;
+}
+
+#title
+{
+	text-align: center;
+	padding: 20px;
+}
+figure
+{
+	align-content: center;
+}
+#headline
+{
+	text-align: left;
+}
+ul
+{
+	text-align: left;
+}
+blockquote
+{
+	font-style: italic;
+}
